@@ -8,9 +8,3 @@ I'm Sreesanth, a Computer Science student interested in software engineering and
 - DSA
 - Machine Learning
 
-## Tools
-- Git
-- Linux
-- VS Code
-
-Currently building projects and documenting my progress.

@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**Darkstate1/Darkstate1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sreesanth, a Computer Science student interested in software engineering and machine learning.
 
-Here are some ideas to get you started:
+## Learning
+- Java
+- Python
+- DSA
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Git
+- Linux
+- VS Code
+
+Currently building projects and documenting my progress.

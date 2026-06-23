@@ -1,10 +1,9 @@
-# Hi 👋
+Hi 👋
+Currently Learning
+Java
+Python
+Data Structures & Algorithms
+Machine Learning
+Current Focus
 
-I'm Sreesanth, a Computer Science student interested in software engineering and machine learning.
-
-## Learning
-- Java
-- Python
-- DSA
-- Machine Learning
-
+Building projects, improving problem-solving skills, and learning AI/ML.

@@ -5,8 +5,8 @@
 * Java
 * Python
 * Data Structures & Algorithms
-* Machine Learning
+  
 
 ## Current Focus
 
-Building projects, improving problem-solving skills, and learning AI/ML.
+Building projects and improving problem-solving skills.

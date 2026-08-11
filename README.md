@@ -1,6 +1,6 @@
 # Hi, I'm Sreesanth 👋
 
-I'm a Computer Science student interested in Data Science, AI, and Cybersecurity.
+I'm a Computer Science student interested in Data Science and Cybersecurity.
 
 ## Currently Learning
 
